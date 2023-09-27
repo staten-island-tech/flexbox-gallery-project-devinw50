@@ -10,7 +10,7 @@ html,
 body{
     background-color: rgb(137, 197, 207);
     font-family: 'Kanit', sans-serif;    }
-.h1 {
+h1 {
     font-size: 25rem;
     text-align: center;
     color: white;
