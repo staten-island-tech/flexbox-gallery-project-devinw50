@@ -11,7 +11,7 @@ body{
     background-color: rgb(137, 197, 207);
     font-family: 'Kanit', sans-serif;    }
 h1 {
-    font-size: 8rem;
+    font-size: 29rem;
     text-align: center;
     color: white;
 }
@@ -25,7 +25,7 @@ h1 {
 
 
 .card-title {
-    font-size: 4rem;
+    font-size: 12rem;
     margin: 2rem 0;
     text-transform: uppercase;
     
@@ -44,7 +44,7 @@ h1 {
 }
 .card-price {
     color: rgb(0, 0, 0);
-    font-size:  3rem;
+    font-size:  9rem;
 }
 .card-img {
     width: 95%;
